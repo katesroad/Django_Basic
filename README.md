@@ -1,5 +1,7 @@
 # Learn Django Basic
 
+## How to setup enviroment
+
 - [How to install Python3.8 on Ubuntu](https://phoenixnap.com/kb/how-to-install-python-3-ubuntu)
   - [Test if install python3.8x successfully](https://askubuntu.com/questions/1144446/python-installed-in-ubuntu-but-python-command-not-found)
   ```sh
@@ -11,3 +13,7 @@
      sudo apt-get install python3-pip
   ```
   - **Notice** The Django version installed for Python3.8 is Django 3.2
+
+## Documents for Django
+
+- [models and database](https://docs.djangoproject.com/en/3.2/topics/db/)
