@@ -19,3 +19,4 @@
 
 - [models and database](https://docs.djangoproject.com/en/3.2/topics/db/)
 - [Dummy tutorial for Django](https://www.runoob.com/django/django-tutorial.html)
+
