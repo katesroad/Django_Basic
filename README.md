@@ -6,3 +6,8 @@
   python3
   ```
 - [How to install Diango](https://docs.djangoproject.com/en/3.2/topics/install/#installing-official-release)
+  - [pip not found](https://stackoverflow.com/questions/18363022/importerror-no-module-named-pip)
+  ```sh
+     sudo apt-get install python3-pip
+  ```
+  - **Notice** The Django version installed for Python3.8 is Django 3.2
